@@ -1,4 +1,4 @@
-#my-app
+## my-app
 :open_file_folder: Um projeto avaliativo pertencente à disciplina de Desenvolvimento Web 2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
