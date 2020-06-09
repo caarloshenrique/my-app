@@ -8,6 +8,20 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Styled-Components](https://styled-components.com/)
 {...}
 
+## :fire: Executando a aplicação
+
+### :cyclone: Front-end
+#### Configuração
+
+```
+$ cd my-app
+$ yarn
+```
+#### Execução
+```
+$ yarn start
+```
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
