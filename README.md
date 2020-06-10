@@ -8,6 +8,10 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Styled-Components](https://styled-components.com/)
 {...}
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+
 ## :fire: Executando a aplicação
 
 ### :cyclone: Front-end
