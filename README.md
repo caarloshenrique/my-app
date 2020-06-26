@@ -1,5 +1,5 @@
 ## my-app
-:open_file_folder: Um projeto avaliativo pertencente à disciplina de Desenvolvimento Web 2
+:open_file_folder: Um projeto React de interfaces para autenticação e recuperação de acesso
 
 ## :rocket: Tecnologias utilizadas
 O projeto foi feito utilizando as seguintes tecnologias:
